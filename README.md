@@ -1,5 +1,7 @@
 ## Real-Time ASL Translation
 
+This project is licensed under the terms of the MIT license.
+
 ### 1. Objective and Approach
 
 - Designed to assist individuals with hearing and speech impairments by translating American Sign Language (ASL) gestures into natural language using deep learning.
